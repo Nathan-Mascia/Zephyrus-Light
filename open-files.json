@@ -5,6 +5,12 @@
     "opened_at": "2026-08-15T17:00:31.997239+00:00",
     "user": "Nathan-Mascia"
   },
+  "cad-docs/00005-001.FCStd": {
+    "host": "NATES-LAPTOP",
+    "last_heartbeat": "2026-08-15T17:01:02.946168+00:00",
+    "opened_at": "2026-08-15T17:01:02.946168+00:00",
+    "user": "Nathan-Mascia"
+  },
   "cad-docs/00009-001.FCStd": {
     "host": "NATES-LAPTOP",
     "last_heartbeat": "2026-08-15T16:55:32.179702+00:00",
@@ -27,12 +33,6 @@
     "host": "NATES-LAPTOP",
     "last_heartbeat": "2026-08-15T16:52:50.611158+00:00",
     "opened_at": "2026-08-15T16:52:50.611158+00:00",
-    "user": "Nathan-Mascia"
-  },
-  "cad-docs/00016-001.FCStd": {
-    "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T16:40:32.119881+00:00",
-    "opened_at": "2026-08-15T16:22:08.902884+00:00",
     "user": "Nathan-Mascia"
   }
 }
