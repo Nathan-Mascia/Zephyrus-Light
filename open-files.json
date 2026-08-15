@@ -5,28 +5,16 @@
     "opened_at": "2026-08-15T15:57:02.749439+00:00",
     "user": "Nathan-Mascia"
   },
-  "cad-docs/00005-001.FCStd": {
+  "cad-docs/00007-001.FCStd": {
     "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T15:43:18.765538+00:00",
-    "opened_at": "2026-08-15T15:43:18.765538+00:00",
-    "user": "Nathan-Mascia"
-  },
-  "cad-docs/00005-001_SKEL.FCStd": {
-    "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T15:55:31.963723+00:00",
-    "opened_at": "2026-08-15T15:51:02.466356+00:00",
+    "last_heartbeat": "2026-08-15T16:12:20.362696+00:00",
+    "opened_at": "2026-08-15T16:12:20.362696+00:00",
     "user": "Nathan-Mascia"
   },
   "cad-docs/00008-001.FCStd": {
     "host": "NATES-LAPTOP",
     "last_heartbeat": "2026-08-15T16:05:32.001384+00:00",
     "opened_at": "2026-08-15T15:43:18.853632+00:00",
-    "user": "Nathan-Mascia"
-  },
-  "cad-docs/00008-001_SKEL.FCStd": {
-    "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T15:50:31.888073+00:00",
-    "opened_at": "2026-08-15T15:47:06.563881+00:00",
     "user": "Nathan-Mascia"
   },
   "cad-docs/00009-001.FCStd": {
@@ -51,12 +39,6 @@
     "host": "NATES-LAPTOP",
     "last_heartbeat": "2026-08-15T16:10:32.026450+00:00",
     "opened_at": "2026-08-15T15:47:06.577884+00:00",
-    "user": "Nathan-Mascia"
-  },
-  "cad-docs/00013-002.FCStd": {
-    "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T15:50:31.906073+00:00",
-    "opened_at": "2026-08-15T15:50:31.906073+00:00",
     "user": "Nathan-Mascia"
   }
 }
