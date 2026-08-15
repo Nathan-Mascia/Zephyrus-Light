@@ -1,28 +1,4 @@
 {
-  "cad-docs/00003-001_LOFT.FCStd": {
-    "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T18:05:32.075107+00:00",
-    "opened_at": "2026-08-15T17:00:31.997239+00:00",
-    "user": "Nathan-Mascia"
-  },
-  "cad-docs/00005-001.FCStd": {
-    "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T18:20:32.049470+00:00",
-    "opened_at": "2026-08-15T17:01:02.946168+00:00",
-    "user": "Nathan-Mascia"
-  },
-  "cad-docs/00005-001_SKEL.FCStd": {
-    "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T18:25:32.068597+00:00",
-    "opened_at": "2026-08-15T17:40:32.043429+00:00",
-    "user": "Nathan-Mascia"
-  },
-  "cad-docs/00008-001_SKEL.FCStd": {
-    "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T17:55:32.034385+00:00",
-    "opened_at": "2026-08-15T17:05:32.060170+00:00",
-    "user": "Nathan-Mascia"
-  },
   "cad-docs/00009-001.FCStd": {
     "host": "NATES-LAPTOP",
     "last_heartbeat": "2026-08-15T18:45:32.098812+00:00",
@@ -33,12 +9,6 @@
     "host": "NATES-LAPTOP",
     "last_heartbeat": "2026-08-15T18:40:32.086066+00:00",
     "opened_at": "2026-08-15T16:10:32.013450+00:00",
-    "user": "Nathan-Mascia"
-  },
-  "cad-docs/00011-001.FCStd": {
-    "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T18:30:32.066222+00:00",
-    "opened_at": "2026-08-15T16:51:32.841599+00:00",
     "user": "Nathan-Mascia"
   },
   "cad-docs/00012-001.FCStd": {
@@ -53,16 +23,16 @@
     "opened_at": "2026-08-15T17:30:32.043900+00:00",
     "user": "Nathan-Mascia"
   },
+  "cad-docs/00013-002.FCStd": {
+    "host": "NATES-LAPTOP",
+    "last_heartbeat": "2026-08-15T18:46:42.900916+00:00",
+    "opened_at": "2026-08-15T18:46:42.900916+00:00",
+    "user": "Nathan-Mascia"
+  },
   "cad-docs/00016-001.FCStd": {
     "host": "NATES-LAPTOP",
     "last_heartbeat": "2026-08-15T18:45:32.098812+00:00",
     "opened_at": "2026-08-15T17:15:32.115101+00:00",
-    "user": "Nathan-Mascia"
-  },
-  "cad-docs/00017-001.FCStd": {
-    "host": "NATES-LAPTOP",
-    "last_heartbeat": "2026-08-15T17:45:33.982888+00:00",
-    "opened_at": "2026-08-15T17:30:32.064902+00:00",
     "user": "Nathan-Mascia"
   }
 }
