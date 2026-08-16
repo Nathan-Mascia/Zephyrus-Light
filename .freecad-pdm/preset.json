@@ -1,0 +1,7 @@
+{
+    "partGlossary": {
+        "enabled": false,
+        "onlyAssemblies": false,
+        "exclude": []
+    }
+}
